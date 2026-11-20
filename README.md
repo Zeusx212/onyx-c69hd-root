@@ -81,5 +81,14 @@ fastboot reboot
 
 ---
 
+## Acknowledgments & Credits
+
+Special thanks and sincere gratitude to **[@7sarus](https://github.com/7sarus)** for their foundational open-source work on the Onyx Boox C69 TWRP device tree:
+- **[7sarus/android_device_onyx_c69](https://github.com/7sarus/android_device_onyx_c69)**
+
+Their detailed hardware architecture documentation, partition layouts, and compiled recovery research provided invaluable insights for safely backing up and exploring the Qualcomm Scuba IoT / Bengal platform on the C69HD.
+
+---
+
 ## License
 MIT License.
